@@ -1,0 +1,66 @@
+body{
+background-color: blue;
+
+}
+.button {
+    background-color:cyan;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 75px;
+    width: 300px;
+    border-radius: 12px;
+    display: block;
+    top: 0px;
+    left: 0px;}
+
+#balk{
+    width: 600px;
+    height: 105px;
+    background-color: cyan;
+    position: absolute;
+    top: 25px;
+    left: 450px;
+border-radius: 12px;
+color: white;
+}
+
+#tekstdoos{
+    width: 400px;
+    height: 500px;
+background-color: cyan;
+border-radius: 12px;
+left: 20px;
+position: absolute;
+top: 150px;
+}
+
+#info{
+width: 300px;
+height: 400px;
+background-color: cyan;
+top: 200px;
+left: 25px;
+position: absolute;
+border-radius: 12px;
+color: white;
+}
+#foto1{
+margin-top: 150px;
+margin-left: 400px;
+height: 250px;
+border-radius: 12px;
+position: absolute;
+}
+#foto2{
+    margin-top: 150px;
+    margin-left: 850px;
+    height: 250px;
+    border-radius: 12px;
+    position: absolute;
+    }
+
+

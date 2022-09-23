@@ -1,0 +1,30 @@
+body{background-color:blue;}
+
+.button {
+    background-color:cyan;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 75px;
+    width: 300px;
+    border-radius: 12px;
+    display: block;
+    margin: 10px;
+  }
+  img{
+    height: 375px;
+    width: 375px;
+    border-radius: 15px;
+  }
+  #naamdoos{
+    width: 400px;
+    height: 100px;
+background-color: cyan;
+border-radius: 12px;
+left: 600px;
+position: absolute;
+top: 10px;
+color: white;}
